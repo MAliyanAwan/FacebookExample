@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547989956219",
+    "project_id": "facebook-2fa20",
+    "storage_bucket": "facebook-2fa20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547989956219:android:c8fdce3f390795c99aa4de",
+        "android_client_info": {
+          "package_name": "com.example.facebookhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547989956219-ref9022ili30ku94buqkj60oekfvq8la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTcYkfZU8RZXlkeDNx5EwM5ntaQhd8XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547989956219-ref9022ili30ku94buqkj60oekfvq8la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
